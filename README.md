@@ -13,7 +13,7 @@
 - Used Page Object Model (POM), soft assertions, dynamic dropdowns, and multi-tab testing
 - Configured Maven and Cucumber reporting for automated test documentation
 
-### 🧑‍🏫 [Distributed Online Marketplace System]([[https://github.com/aaahhmdd/Distributed_Market_System](https://github.com/aaahhmdd/Online_Market_System)])
+### 🧑‍🏫 [Distributed Online Marketplace System]((https://github.com/aaahhmdd/Online_Market_System))
 - Simulated a distributed online store with modular Java backend and RESTful services
 - Designed partitioned SQL database and implemented secure transactions and inventory tracking
 
