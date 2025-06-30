@@ -38,6 +38,6 @@
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: your_email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: ahmeddssameh0@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/ahmeddssameh0)
 
