@@ -39,5 +39,5 @@
 
 ## 📫 Let's Connect!
 - 📧 Email: ahmeddssameh0@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/ahmeddssameh0)
+- 💼 LinkedIn: [www.linkedin.com/in/ahmeddssameh0](www.linkedin.com/in/ahmeddssameh0)
 
