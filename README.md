@@ -25,7 +25,7 @@
 - Designed an app promoting healthy eating with gamification and AI-based meal planning
 - Created system models and UI prototypes using Figma and UML
 
-### 🎬 [Movie Recommendation System (Java)](https://github.com/aaahhmdd/MovieRecommender_Java)
+### 🎬 [Movie Recommendation System (Java)]()
 - Console app using file parsing and Java OOP to recommend movies based on genre preferences
 - Validated data inputs and performed unit testing using JUnit
 
