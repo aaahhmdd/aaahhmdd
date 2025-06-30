@@ -21,7 +21,7 @@
 - Built a full pipeline from ERD to star schema and visualized key metrics using Power BI
 - Used SQL Server, SSIS, and Mockaroo to simulate and test shelter operations
 
-### 🥗 [Gamified Nutrition App (UI/UX + SE)]()
+### 🥗 [Gamified Nutrition App (UI/UX + SE)](https://github.com/aaahhmdd/Gamification-of-Nutrition)
 - Designed an app promoting healthy eating with gamification and AI-based meal planning
 - Created system models and UI prototypes using Figma and UML
 
